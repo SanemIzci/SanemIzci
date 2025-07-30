@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋, I'm Sanem Izci
+A passionate developer focused on building web applications and learning new technologies.
 
-<!--
-**SanemIzci/SanemIzci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning: React, Redux Toolkit, and Git best practices  
+- 🔭 I’m working on: Personal projects to improve my full-stack development skills  
+- 👯 I’m looking to collaborate on: Open-source web projects  
+- 💬 Ask me about:Node.js, JavaScript, HTML/CSS  
+- 📫 How to reach me: sanemizci33@gmail.com 
+- ⚡ Fun fact: I love coding while listening to chill music 🎧
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=,javascript,html,css,react,git" />
+</p>

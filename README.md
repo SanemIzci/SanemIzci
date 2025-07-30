@@ -19,15 +19,6 @@ A passionate developer focused on building web applications and learning new tec
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanemIzci&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanemIzci&layout=compact&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=SanemIzci&theme=tokyonight" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 - **[E-commerce](https://github.com/SanemIzci/MERN-E-Commerce)** — A full-stack web application developed with MERN Stack
 - **[Book Archive](https://github.com/SanemIzci/BookArchive)** 

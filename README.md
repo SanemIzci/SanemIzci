@@ -29,5 +29,5 @@ A passionate developer focused on building web applications and learning new tec
 ---
 
 ## 🚀 Featured Projects
-- **[E-commerce](github.com/SanemIzci/MERN-E-Commerce)** — A full-stack web application developed with MERN Stack
+- **[E-commerce](https://github.com/SanemIzci/MERN-E-Commerce)** — A full-stack web application developed with MERN Stack
 - **[Book Archive](https://github.com/SanemIzci/BookArchive)** 

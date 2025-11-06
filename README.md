@@ -4,7 +4,7 @@ A passionate developer focused on building web applications and learning new tec
 ---
 
 
-- 🌱 I’m currently learning: React, Redux Toolkit, and Git best practices  
+- 🌱 I’m currently learning: Spring boot,React, Redux Toolkit, and Git best practices  
 - 🔭 I’m working on: Personal projects to improve my full-stack development skills  
 - 👯 I’m looking to collaborate on: Open-source web projects  
 - 💬 Ask me about:Node.js, JavaScript, HTML/CSS  

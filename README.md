@@ -8,7 +8,7 @@ A passionate developer focused on building web applications and learning new tec
 - 🔭 I’m working on: Personal projects to improve my full-stack development skills  
 - 👯 I’m looking to collaborate on: Open-source web projects  
 - 💬 Ask me about:Node.js, JavaScript, HTML/CSS  
-- 📫 How to reach me: sanemizci33@gmail.com 
+- 📫 How to reach me: sanemizcii@gmail.com 
 
 ---
 

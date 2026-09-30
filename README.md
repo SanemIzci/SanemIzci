@@ -21,7 +21,6 @@
 - 💻 Specialized in **Backend & Distributed Architectures** (Java 21 / Spring Boot 3 microservices, NestJS, event-driven pipelines with Apache Kafka).
 - 🤖 Passionate about **AI Engineering & Applied ML** (RAG pipelines with FAISS, Computer Vision / OCR, LLM orchestration).
 - 🌐 Experienced across modern **Full-Stack** ecosystems (Next.js App Router, React 19, Redux Toolkit, Tailwind CSS, TypeScript).
-- 🎯 Focused on clean code, schema-per-tenant multi-tenancy, idempotency patterns, and high-throughput production architectures.
 
 ---
 
